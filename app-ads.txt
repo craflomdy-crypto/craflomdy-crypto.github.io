@@ -1,6 +1,5 @@
 google.com, pub-9631797506045712, DIRECT, f08c47fec0942fa0
 
-
 #AnyMindSEA
 google.com, pub-9058291854443881, RESELLER, f08c47fec0942fa0
 #AnyMindIN
